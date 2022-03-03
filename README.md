@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋, I'm Leonardo Moraes! 😃
+
+🔥 Passionate about coding programming, learn new technologies
+   and producing excellent results as a constant goal 💪🏼
+   
+This profile is a personal wiki for reference 🔍
+Enjoy it!
 
 <!--
 **leonardoMoliveira/leonardoMoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
