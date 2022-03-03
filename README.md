@@ -3,6 +3,8 @@
 🔥 Passionate about coding programming, learn new technologies
    and producing excellent results as a constant goal 💪🏼
    
+💡 Pleno full-stack developer 💡
+   
 This profile is a personal wiki for reference 🔍
 Enjoy it!
 
