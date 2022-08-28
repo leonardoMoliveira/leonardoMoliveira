@@ -6,7 +6,7 @@
 💡 Pleno full-stack developer 💡
    
 This profile is a personal wiki for reference 🔍
-Enjoy it!
+Enjoy it
 
 <!--
 **leonardoMoliveira/leonardoMoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
