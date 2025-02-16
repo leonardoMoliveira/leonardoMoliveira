@@ -1,12 +1,11 @@
-### Hi there 👋, I'm Leonardo Moraes! 😃
+### Hi there 👋, I'm Leonardo Oliveira! 😃
 
-🔥 Passionate about coding programming, learn new technologies
+🔥 Passionate about coding, learn new technologies
    and producing excellent results as a constant goal 💪🏼
    
-💡 Pleno full-stack developer 💡
+💡 Senior Full-Stack Software Engineer 💡
    
-This profile is a personal wiki for reference 🔍
-Enjoy it
+This profile is a personal wiki for future reference 🔍
 
 <!--
 **leonardoMoliveira/leonardoMoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
